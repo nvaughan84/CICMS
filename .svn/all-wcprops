@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/5/cicart
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/cicart/license.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/6/cicart/.project
+END
+.buildpath
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/cicart/.buildpath
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/3/cicart/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/cicart/index.php
+END

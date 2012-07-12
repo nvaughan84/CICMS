@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/cicart/application/views/themes/default
+END
+crossdomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/cicart/application/views/themes/default/crossdomain.xml
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/cicart/application/views/themes/default/footer.php
+END
+welcome_message.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/cicart/application/views/themes/default/welcome_message.php
+END
+404.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5/cicart/application/views/themes/default/404.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5/cicart/application/views/themes/default/index.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5/cicart/application/views/themes/default/header.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/cicart/application/views/themes/default/home.php
+END
